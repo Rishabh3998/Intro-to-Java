@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class TakingInput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-//        System.out.println("Please enter a number between 1 to 100");
+//        System.out.println("Please enter a number between 1 and 100");
 //        int num1 = sc.nextInt();
 //        float num1f = sc.nextFloat();
 //        System.out.println("Please enter one more number within the same range");
